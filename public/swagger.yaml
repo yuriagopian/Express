@@ -1,0 +1,35 @@
+swagger: '2.0'
+
+info:
+  version: "0.0.1"
+  title: Centaurus API
+
+consumes:
+  - text/plain
+
+produces:
+  - application/json
+
+paths:
+  /oauth/token:
+    post:
+      operationId: post
+      description: Post Caradhras Token of microservice
+      responses:
+        200:
+          description: "Token response"
+          schema:
+            $ref: "#/definitions/healthResponse"
+          examples:
+            application/json: {
+    "access_token": "eyJraWQiOiJiNGVIeHFZSzRDc1paNVByZDlNSVhTTzlwOGY3OURWdmwyRVlpTm55WFRBPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI0MHNvN2NmcnM2dm0yZXU3a2s2djVqaGtpZiIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiY2FyYWRocmFzXC9jYXJkcyBjYXJhZGhyYXNcL2NhcmFkaHJhc3BheW1lbnRzIGNhcmFkaHJhc1wvdHJhbnNwb3J0Y2FyZHMgY2FyYWRocmFzXC93cml0ZSBjYXJhZGhyYXNcL2Jhbmt0cmFuc2ZlcnMgcmVkaG9yblwvcmVhZCBjYXJhZGhyYXNcL3RhcmlmZiBjYXJhZGhyYXNcL2tub3d5b3VyY2xpZW50IGNhcmFkaHJhc1wvcGF5bWVudHMgY2FyYWRocmFzXC9yZWNoYXJnZXMgY2FyYWRocmFzXC9hdXRob3JpemVyIGNhcmFkaHJhc1wvY2R0LWF1dGhvcml6ZXIgY2FyYWRocmFzXC9iaWxsZXQgcmVkaG9yblwvd3JpdGUgY2FyYWRocmFzXC9hY2NvdW50LXBkZiBjYXJhZGhyYXNcL2dlbmVyYXRlZG9jdW1lbnQgY2FyYWRocmFzXC9jYXJ0b2VzIGNhcmFkaHJhc1wvcDJwdHJhbnNmZXIgY2FyYWRocmFzXC91c2VyIiwiYXV0aF90aW1lIjoxNTY5MzMyMDU0LCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAudXMtZWFzdC0xLmFtYXpvbmF3cy5jb21cL3VzLWVhc3QtMV9YNnNVbnZqNG4iLCJleHAiOjE1NjkzMzU2NTQsImlhdCI6MTU2OTMzMjA1NCwidmVyc2lvbiI6MiwianRpIjoiOWMxODExMzctYzAyYy00ZmJiLThlZjItMzdkZjVhNDk3NTJhIiwiY2xpZW50X2lkIjoiNDBzbzdjZnJzNnZtMmV1N2trNnY1amhraWYifQ.H7X0GezmaYgrWjedHQss1kadiepaLXKsSjYHN27UtZfZb93T8s7SlHasBWPVT_ZR0BVEeK2oDDrcZ25n7MRHv8zP6E_A2jdGQ1hd-4VZQ8fvnTRZxSJ5F6TFZCv-wnLPh3mXfhBx_Y07K28upJIdntkthbWE7HJX4Z64Cwei-_Xn3RzC2KdARDy5jYYmFFBQhT0AicmbyVaUMyIE_B4j-poeT8HNHsp-IBowW9AyijvLZHhJRL58Tokh0U2zAcLDvEpk95z3OeFtCUcJ4IaEavQD2X6zhASiDjiOoBkSDaYDmfKBOtiDWPNkn4DKqA4y9o2qThsBmdk02dtxmza_BA",
+    "expires_in": 3600,
+    "token_type": "Bearer"
+}
+
+definitions:
+  healthResponse:
+    type: "object"
+    properties:
+      status:
+        type: "string"

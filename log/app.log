@@ -1,0 +1,421 @@
+[2019-09-20T18:12:11.226] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3001/appmetrics-dash
+[2019-09-20T18:12:11.228] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3001/swagger/api
+[2019-09-20T18:12:11.229] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3001/explorer
+[2019-09-20T18:13:39.075] [INFO] nodejsmicroservice - ::1 - - "GET / HTTP/1.1" 200 1824 "" "PostmanRuntime/7.6.0"
+[2019-09-20T18:13:53.922] [INFO] nodejsmicroservice - ::1 - - "POST /oauth/token HTTP/1.1" 200 1428 "" "PostmanRuntime/7.6.0"
+[2019-09-20T18:21:36.711] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3001/appmetrics-dash
+[2019-09-20T18:21:36.714] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3001/swagger/api
+[2019-09-20T18:21:36.714] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3001/explorer
+[2019-09-20T18:21:45.848] [DEBUG] oauth - Token
+[2019-09-20T18:21:46.597] [INFO] nodejsmicroservice - ::1 - - "POST /oauth/token HTTP/1.1" 200 1428 "" "PostmanRuntime/7.6.0"
+[2019-09-20T18:22:01.569] [DEBUG] oauth - Status
+[2019-09-20T18:22:01.575] [INFO] nodejsmicroservice - ::1 - - "GET /oauth HTTP/1.1" 200 21 "" "PostmanRuntime/7.6.0"
+[2019-09-20T18:28:29.558] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3001/appmetrics-dash
+[2019-09-20T18:28:29.560] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3001/swagger/api
+[2019-09-20T18:28:29.561] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3001/explorer
+[2019-09-20T18:28:37.165] [DEBUG] oauth - Status
+[2019-09-20T18:28:37.189] [INFO] nodejsmicroservice - ::1 - - "GET /oauth HTTP/1.1" 200 21 "" "PostmanRuntime/7.6.0"
+[2019-09-20T18:28:39.947] [DEBUG] oauth - Token
+[2019-09-20T18:28:40.641] [INFO] nodejsmicroservice - ::1 - - "POST /oauth/token HTTP/1.1" 200 1428 "" "PostmanRuntime/7.6.0"
+[2019-09-20T18:29:17.361] [DEBUG] oauth - Token
+[2019-09-20T18:29:18.007] [INFO] nodejsmicroservice - ::1 - - "POST /oauth/token?2 HTTP/1.1" 200 1428 "" "PostmanRuntime/7.6.0"
+[2019-09-20T18:29:35.910] [DEBUG] oauth - Token
+[2019-09-20T18:29:36.428] [INFO] nodejsmicroservice - ::1 - - "POST /oauth/token HTTP/1.1" 200 1428 "" "PostmanRuntime/7.6.0"
+[2019-09-20T18:49:22.606] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3001/appmetrics-dash
+[2019-09-20T18:49:22.608] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3001/swagger/api
+[2019-09-20T18:49:22.608] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3001/explorer
+[2019-09-20T18:49:34.083] [DEBUG] oauth - Token
+[2019-09-20T18:49:34.876] [INFO] nodejsmicroservice - ::1 - - "POST /oauth/token HTTP/1.1" 200 1428 "" "PostmanRuntime/7.6.0"
+[2019-09-24T10:40:03.118] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3001/appmetrics-dash
+[2019-09-24T10:40:03.121] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3001/swagger/api
+[2019-09-24T10:40:03.121] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3001/explorer
+[2019-10-08T11:07:19.189] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3001/appmetrics-dash
+[2019-10-08T11:07:19.191] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3001/swagger/api
+[2019-10-08T11:07:19.191] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3001/explorer
+[2019-10-10T09:56:33.186] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3001/appmetrics-dash
+[2019-10-10T09:56:33.188] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3001/swagger/api
+[2019-10-10T09:56:33.188] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3001/explorer
+[2020-01-30T10:58:52.039] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T10:58:52.040] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T10:58:52.040] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T11:04:01.013] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T11:04:01.014] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T11:04:01.014] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T11:09:38.386] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T11:09:38.387] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T11:09:38.387] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T11:13:16.434] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T11:13:16.435] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T11:13:16.435] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T11:13:23.373] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T11:13:23.374] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T11:13:23.374] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T11:36:50.764] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T11:36:50.765] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T11:36:50.765] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T11:37:42.738] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T11:37:42.739] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T11:37:42.739] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T11:38:28.317] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T11:38:28.317] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T11:38:28.317] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T11:40:24.062] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T11:40:24.063] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T11:40:24.063] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T11:41:31.045] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T11:41:31.046] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T11:41:31.046] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T11:44:24.974] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T11:44:24.975] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T11:44:24.975] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T12:00:02.133] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T12:00:02.134] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T12:00:02.134] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T12:34:27.699] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T12:34:27.699] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T12:34:27.699] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T12:36:21.161] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T12:36:21.162] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T12:36:21.162] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T12:37:05.554] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T12:37:05.555] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T12:37:05.555] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T12:45:49.524] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T12:45:49.525] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T12:45:49.525] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T13:37:41.752] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T13:37:41.752] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T13:37:41.752] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T13:39:34.752] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T13:39:34.753] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T13:39:34.753] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T13:40:58.865] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T13:40:58.866] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T13:40:58.866] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T13:41:04.018] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T13:41:04.018] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T13:41:04.018] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T13:42:32.704] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T13:42:32.705] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T13:42:32.705] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T13:45:27.272] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T13:45:27.273] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T13:45:27.273] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T13:55:02.707] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T13:55:02.707] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T13:55:02.707] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T13:56:08.496] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T13:56:08.497] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T13:56:08.497] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T13:56:37.701] [INFO] nodejsmicroservice - ::1 - - "GET / HTTP/1.1" 200 1824 "" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+[2020-01-30T13:56:37.760] [INFO] nodejsmicroservice - ::1 - - "GET /favicon.ico HTTP/1.1" 200 484 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+[2020-01-30T13:56:53.048] [INFO] nodejsmicroservice - ::1 - - "POST /create_user HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T14:10:32.358] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:10:32.359] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:10:32.359] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:11:36.238] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:11:36.238] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:11:36.238] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:11:45.778] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:11:45.778] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:11:45.778] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:12:14.546] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:12:14.546] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:12:14.546] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:13:09.001] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:13:09.001] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:13:09.001] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:13:37.788] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:13:37.788] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:13:37.788] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:14:08.553] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:14:08.553] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:14:08.553] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:14:34.657] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:14:34.658] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:14:34.658] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:14:41.583] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:14:41.583] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:14:41.583] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:15:55.249] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:15:55.250] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:15:55.250] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:19:06.849] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:19:06.850] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:19:06.850] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:19:33.524] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:19:33.525] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:19:33.525] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:22:07.973] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:22:07.974] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:22:07.974] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:32:20.370] [INFO] nodejsmicroservice - ::1 - - "POST /create_user HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T14:35:01.593] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:35:01.593] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:35:01.593] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:35:05.895] [INFO] nodejsmicroservice - ::1 - - "POST /create_user HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T14:44:48.816] [INFO] nodejsmicroservice - ::1 - - "GET / HTTP/1.1" 304 - "" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+[2020-01-30T14:44:48.855] [INFO] nodejsmicroservice - ::1 - - "GET /favicon.ico HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+[2020-01-30T14:45:04.945] [INFO] nodejsmicroservice - ::1 - - "POST /create_user HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T14:47:23.986] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:47:23.987] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:47:23.987] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:48:45.523] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:48:45.523] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:48:45.523] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:51:49.118] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:51:49.118] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:51:49.119] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:51:55.565] [INFO] nodejsmicroservice - ::1 - - "POST /create_user HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T14:53:06.453] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:53:06.454] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:53:06.454] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:53:09.434] [INFO] nodejsmicroservice - ::1 - - "POST /create_user HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T14:53:15.776] [INFO] nodejsmicroservice - ::1 - - "POST /create_user/ HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T14:55:12.554] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:55:12.554] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:55:12.554] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:55:59.949] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:55:59.950] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:55:59.950] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T14:56:30.719] [INFO] nodejsmicroservice - ::1 - - "GET /retrieveUser/ HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T14:57:04.450] [INFO] nodejsmicroservice - ::1 - - "GET /retrieveUser/ HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T14:57:19.332] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T14:57:19.333] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T14:57:19.333] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T15:10:42.235] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T15:10:42.236] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T15:10:42.236] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T15:10:57.914] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T15:10:57.914] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T15:10:57.915] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T15:11:19.330] [INFO] nodejsmicroservice - ::1 - - "GET /retrieveUser/ HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T15:11:29.062] [INFO] nodejsmicroservice - ::1 - - "GET /retrieveUser/ HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T15:13:35.888] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T15:13:35.889] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T15:13:35.889] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T15:13:43.828] [INFO] nodejsmicroservice - ::1 - - "GET /retrieveUser/ HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T15:14:17.635] [INFO] nodejsmicroservice - ::1 - - "GET /retrieveUser/ HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T15:14:28.960] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T15:14:28.960] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T15:14:28.960] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T15:15:13.186] [INFO] nodejsmicroservice - ::1 - - "GET /retrieveUser/ HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T15:15:37.580] [INFO] nodejsmicroservice - ::1 - - "GET /retrieveUser/ HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T15:20:05.185] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T15:20:05.186] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T15:20:05.186] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T15:24:50.034] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T15:24:50.035] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T15:24:50.035] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T15:25:14.783] [INFO] nodejsmicroservice - ::1 - - "GET /retrieveUser/ HTTP/1.1" 200 9 "" "PostmanRuntime/7.20.1"
+[2020-01-30T15:25:29.371] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 16 "" "PostmanRuntime/7.20.1"
+[2020-01-30T16:12:58.427] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T16:12:58.428] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T16:12:58.428] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T16:22:54.067] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T16:22:54.068] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T16:22:54.068] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T16:25:48.668] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T16:25:48.668] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T16:25:48.668] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T16:25:55.087] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 477 "" "PostmanRuntime/7.20.1"
+[2020-01-30T16:50:47.095] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T16:50:47.096] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T16:50:47.096] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T16:50:57.470] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 477 "" "PostmanRuntime/7.20.1"
+[2020-01-30T16:52:37.398] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T16:52:37.399] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T16:52:37.399] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T16:52:42.500] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 3 "" "PostmanRuntime/7.20.1"
+[2020-01-30T17:33:04.494] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T17:33:04.495] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T17:33:04.495] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T17:37:29.793] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T17:37:29.793] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T17:37:29.793] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T17:37:42.154] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 477 "" "PostmanRuntime/7.20.1"
+[2020-01-30T17:38:14.466] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T17:38:14.466] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T17:38:14.466] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T17:38:19.407] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 477 "" "PostmanRuntime/7.20.1"
+[2020-01-30T17:43:41.180] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T17:43:41.180] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T17:43:41.180] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T17:43:59.869] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 477 "" "PostmanRuntime/7.20.1"
+[2020-01-30T17:44:12.018] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T17:44:12.019] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T17:44:12.019] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T17:44:15.835] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 477 "" "PostmanRuntime/7.20.1"
+[2020-01-30T17:44:19.462] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 477 "" "PostmanRuntime/7.20.1"
+[2020-01-30T17:44:30.261] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T17:44:30.261] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T17:44:30.262] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T17:44:44.929] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T17:44:44.930] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T17:44:44.930] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T17:44:49.464] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 477 "" "PostmanRuntime/7.20.1"
+[2020-01-30T17:44:51.033] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 477 "" "PostmanRuntime/7.20.1"
+[2020-01-30T17:45:59.732] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T17:45:59.733] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T17:45:59.733] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T17:46:02.248] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 477 "" "PostmanRuntime/7.20.1"
+[2020-01-30T17:46:34.564] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T17:46:34.564] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T17:46:34.564] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T17:47:04.385] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T17:47:04.386] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T17:47:04.386] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T17:47:08.829] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 3 "" "PostmanRuntime/7.20.1"
+[2020-01-30T17:58:47.118] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T17:58:47.118] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T17:58:47.119] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:01:05.341] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:01:05.342] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:01:05.342] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:04:56.474] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:04:56.475] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:04:56.475] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:08:55.975] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:08:55.975] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:08:55.975] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:11:29.324] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:11:29.324] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:11:29.324] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:18:12.789] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:18:12.789] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:18:12.789] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:20:15.549] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:20:15.550] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:20:15.550] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:21:07.969] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:21:07.970] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:21:07.970] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:21:23.090] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:22:08.649] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:22:08.650] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:22:08.650] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:22:48.691] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:23:00.555] [INFO] nodejsmicroservice - ::1 - - "GET /retrieveUser/ HTTP/1.1" 200 9 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:23:09.850] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:23:16.082] [INFO] nodejsmicroservice - ::1 - - "GET /createUser/ HTTP/1.1" 200 484 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:25:12.248] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:26:15.599] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:26:15.599] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:26:15.599] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:26:18.075] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:27:10.145] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:27:10.146] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:27:10.146] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:29:13.917] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:29:13.917] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:29:13.917] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:29:21.316] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:30:17.326] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:30:17.326] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:30:17.326] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:30:43.562] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:30:43.563] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:30:43.563] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:30:46.849] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:32:10.149] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:32:10.150] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:32:10.150] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:32:12.233] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:32:22.995] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:32:22.996] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:32:22.996] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:33:33.715] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:33:33.716] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:33:33.716] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:33:36.884] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 11 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:33:53.184] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:33:53.185] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:33:53.185] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:35:06.155] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:36:18.095] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:37:00.295] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:37:00.296] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:37:00.296] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:37:03.760] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:37:03.761] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:37:03.761] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:37:06.223] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:38:32.364] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:38:32.365] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:38:32.365] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:38:56.132] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 400 38 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:39:36.154] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 400 38 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:43:19.789] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:43:19.790] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:43:19.790] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:43:59.117] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 400 38 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:45:35.561] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:45:35.562] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:45:35.562] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:47:17.763] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:47:17.763] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:47:17.763] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:48:08.312] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:48:08.313] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:48:08.313] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:48:40.386] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:48:40.386] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:48:40.386] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:49:15.693] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:49:15.694] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:49:15.694] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:49:20.907] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:49:20.907] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:49:20.907] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:50:17.167] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:50:17.167] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:50:17.167] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:50:47.435] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:55:08.152] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:55:08.152] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:55:08.153] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:55:22.704] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:55:22.705] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:55:22.705] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:56:24.672] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:56:24.673] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:56:24.673] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T18:56:35.971] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 2 "" "PostmanRuntime/7.20.1"
+[2020-01-30T18:57:24.530] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T18:57:24.531] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T18:57:24.531] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T19:01:05.228] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T19:01:05.228] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T19:01:05.228] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T19:01:06.752] [INFO] nodejsmicroservice - ::1 - - "GET /retrieveUser/ HTTP/1.1" 200 9 "" "PostmanRuntime/7.20.1"
+[2020-01-30T19:04:26.480] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T19:04:26.481] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T19:04:26.481] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T19:05:01.759] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T19:05:01.760] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T19:05:01.760] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T19:05:10.796] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T19:05:10.797] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T19:05:10.797] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T19:05:14.998] [INFO] nodejsmicroservice - ::1 - - "GET /retrieveUser/ HTTP/1.1" 200 9 "" "PostmanRuntime/7.20.1"
+[2020-01-30T19:05:21.160] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 - "" "PostmanRuntime/7.20.1"
+[2020-01-30T19:05:22.349] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 - "" "PostmanRuntime/7.20.1"
+[2020-01-30T19:05:23.124] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 - "" "PostmanRuntime/7.20.1"
+[2020-01-30T19:05:23.931] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 - "" "PostmanRuntime/7.20.1"
+[2020-01-30T19:06:07.134] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T19:06:07.134] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T19:06:07.134] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T19:06:21.295] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 - "" "PostmanRuntime/7.20.1"
+[2020-01-30T19:06:58.927] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T19:06:58.928] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T19:06:58.928] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T19:08:12.902] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T19:08:12.903] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T19:08:12.903] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T19:09:58.002] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T19:09:58.002] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T19:09:58.002] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T19:12:16.940] [INFO] nodejsmicroservice - nodejsmicroservice listening on http://localhost:3000/appmetrics-dash
+[2020-01-30T19:12:16.941] [INFO] nodejsmicroservice - OpenAPI (Swagger) spec is available at http://localhost:3000/swagger/api
+[2020-01-30T19:12:16.941] [INFO] nodejsmicroservice - Swagger UI is available at http://localhost:3000/explorer
+[2020-01-30T19:12:26.243] [INFO] nodejsmicroservice - ::1 - - "POST /createUser/ HTTP/1.1" 200 152 "" "PostmanRuntime/7.20.1"
