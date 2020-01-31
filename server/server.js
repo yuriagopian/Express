@@ -21,10 +21,12 @@ const path = require('path');
 const logger = log4js.getLogger(appName);
 logger.level = process.env.LOG_LEVEL || 'info'
 
-const bodyParser = require('body-parser')
+const bodyParser = require('body-parser');
 
 const app = express();
 const server = http.createServer(app);
+ 
+app.use('/usuarios/doc/', express.static('server/apidoc/'))
 
 app.use(bodyParser.urlencoded({ extended: true }))
 app.use(bodyParser.json())

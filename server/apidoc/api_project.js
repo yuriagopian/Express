@@ -1,0 +1,22 @@
+define({
+  "title": "Soubank Doc-User",
+  "url": "http://api.soubank.com.br",
+  "version": "0.0.1",
+  "order": [
+    "Error",
+    "Define",
+    "PostTitleAndError",
+    "PostError"
+  ],
+  "name": "node-user-administration",
+  "description": "A generated IBM Cloud application",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2020-01-31T19:12:38.155Z",
+    "url": "http://apidocjs.com",
+    "version": "0.17.7"
+  }
+});
